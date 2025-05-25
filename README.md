@@ -44,5 +44,30 @@ This micro-mouse combines real-time embedded systems, control theory, and effici
   </tr>
 </table>
 
+## Results
+### MATLAB PID TUNING 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fbe3f84a-11e7-4011-8649-263cc3d091c6" alt="Screenshot 1" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/aa87dc0f-6408-4a7b-8f91-3927877416fe" alt="Screenshot 2" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0402b8bd-96e5-49e6-8006-7f021a002f69" alt="Screenshot 3" width="300"/>
+    </td>
+  </tr>
+</table>
+
+### Flood fill algorithm simulation using Java 
+
+![Screenshot 2025-05-18 224527](https://github.com/user-attachments/assets/cbf6c498-dd2a-4544-aa2d-5fa963b2b4e0)
+
+
+### Videos of the micro mouse  
+
+
 
 
