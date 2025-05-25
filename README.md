@@ -1,7 +1,10 @@
 # Micro Mouse V3
 
 ## Team Members
+
 Ashintha, Dulaj, Lakna, Yeisth, and Gamunu
+
+## About
 
 This is the latest micro-mouse that we developed.
 
@@ -10,7 +13,7 @@ I designed and implemented the entire firmware, including:
 - PID controllers for accurate motor control
 - Sensor calibration for reliable wall detection and tracking
 
-## Key Features
+### Key Features
 
 - **Four-Wheel Micro-Mouse Design**  
   Built according to the standard specifications used in official micromouse competitions.
@@ -24,6 +27,9 @@ I designed and implemented the entire firmware, including:
   The PID control logic was modeled and fine-tuned in MATLAB for optimal performance in navigating the maze.
 
 This micro-mouse combines real-time embedded systems, control theory, and efficient pathfinding to deliver fast and intelligent maze-solving performance.
+
+
+
 
 ## Images of the micro mouse 
 
