@@ -68,6 +68,19 @@ This micro-mouse combines real-time embedded systems, control theory, and effici
 
 ### Videos of the micro mouse  
 
+| ![Image 1](https://github.com/user-attachments/assets/a5dcf840-a591-4907-b1b7-ad884ee7bacb) | ![Image 2](https://github.com/user-attachments/assets/cdc71187-ea05-4c68-89ec-a9155642d368) |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![Image 3](https://github.com/user-attachments/assets/3757b5cb-6ed0-44b3-95de-cebb083a4af7) <br>**speed = 50cm/s** |                                                                                              |
+
+
+
+
+
+
+
+
+
+
 
 
 
