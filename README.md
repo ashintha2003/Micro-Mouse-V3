@@ -26,7 +26,7 @@ I designed and implemented the entire firmware, including:
 - **PID Algorithm Tuned Using MATLAB**  
   The PID control logic was modeled and fine-tuned in MATLAB for optimal performance in navigating the maze.
 
-This micro-mouse combines real-time embedded systems, control theory, and efficient pathfinding to deliver fast and intelligent maze-solving performance.
+This micro-mouse combines real-time embedded systems, control theory, and efficient pathfinding to deliver fast, intelligent maze-solving performance.
 
 
 
@@ -68,11 +68,17 @@ This micro-mouse combines real-time embedded systems, control theory, and effici
 
 ### Videos of the micro mouse  
 
-
-**90 degree turn** - https://github.com/user-attachments/assets/525b0ec1-bcbb-4e70-a308-53aa2537792c
+### 90 degree turn 
+https://github.com/user-attachments/assets/525b0ec1-bcbb-4e70-a308-53aa2537792c
+### fine PD tune
 https://github.com/user-attachments/assets/6bf69a50-e32a-4ab2-a6cb-90806e0abeed
-
+### Speed - 50cm/s
 https://github.com/user-attachments/assets/c952440c-e476-4505-826e-5273c2423a68
+### Speed - 100cm/s
+https://github.com/user-attachments/assets/d85a2e3a-b819-42c0-beb4-2bdbf65efee2
+
+
+
 
 
 
