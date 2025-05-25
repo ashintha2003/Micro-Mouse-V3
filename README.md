@@ -1,5 +1,7 @@
 # Micro Mouse V3
-## Latest Micro-Mouse Project
+
+## Team Members
+Ashintha, Dulaj, Lakna, Yeisth, and Gamunu
 
 This is the latest micro-mouse that we developed.
 
@@ -8,7 +10,7 @@ I designed and implemented the entire firmware, including:
 - PID controllers for accurate motor control
 - Sensor calibration for reliable wall detection and tracking
 
-### Key Features
+## Key Features
 
 - **Four-Wheel Micro-Mouse Design**  
   Built according to the standard specifications used in official micromouse competitions.
