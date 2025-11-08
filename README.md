@@ -70,7 +70,10 @@ This micro-mouse combines real-time embedded systems, control theory, and effici
 
 ### fine PID tune
 https://github.com/user-attachments/assets/c952440c-e476-4505-826e-5273c2423a68
-### Results
+### Search Run
+https://github.com/user-attachments/assets/d42b79d7-6e2e-466a-a283-39a644c12059
+### Fast run
+https://github.com/user-attachments/assets/46b91942-5ffa-45b2-bd6a-cc380845a9d6
 
 
 
